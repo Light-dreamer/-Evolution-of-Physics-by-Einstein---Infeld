@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0e1e7d7cb9f17119",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4d5f40a085302f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6570952bf23b0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The rise of mechanical view/1-1 The great mystery story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-1 The great mystery story"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc46cd9f463d7b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "91dc340b1371e898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7635b01f41e27c8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4e9af73d67e542ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ada22486b811fe61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7fd1072224ee6c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f0c9404886b69b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4971ebdf52fbc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. The rise of mechanical view/1-1 The great mystery story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1-1 The great mystery story 的反向链接列表"
+            }
+          },
+          {
+            "id": "8423ab1c16e463ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "5dd6d70faa0cf768",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e97bca96175f1aad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f9597044f04c4db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d6570952bf23b0e2",
+  "lastOpenFiles": [
+    "1. The rise of mechanical view/1-10 The kinetic theory of matter.md",
+    "1. The rise of mechanical view/1-6 Is heat a substance?.md",
+    "1. The rise of mechanical view/1-3 Vectors.md",
+    "1. The rise of mechanical view/1-1 The great mystery story.md",
+    "1. The rise of mechanical view/1-9 The philosophical background.md",
+    "1. The rise of mechanical view/1-8 The rate of exchange.md",
+    "1. The rise of mechanical view/1-7 The switchback.md",
+    "1. The rise of mechanical view/1-5 One clues remains.md",
+    "1. The rise of mechanical view/1-4 The riddle of motion.md",
+    "1. The rise of mechanical view/1-2 The first clue.md",
+    "欢迎.md",
+    "1. The rise of mechanical view"
+  ]
+}

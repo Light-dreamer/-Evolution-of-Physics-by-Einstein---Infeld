@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. The rise of mechanical view/1-1 The great mystery story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1-1 The great mystery story"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "d6570952bf23b0e2",
   "lastOpenFiles": [
-    "1. The rise of mechanical view/1-1 The great mystery story.md",
     "README.md",
+    "1. The rise of mechanical view/1-1 The great mystery story.md",
     "1. The rise of mechanical view/1-4 The riddle of motion.md",
     "1. The rise of mechanical view/1-3 Vectors.md",
     "1. The rise of mechanical view/1-2 The first clue.md",

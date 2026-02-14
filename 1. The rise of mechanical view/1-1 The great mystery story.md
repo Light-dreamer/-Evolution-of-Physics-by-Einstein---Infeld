@@ -1,4 +1,4 @@
-In Imagination there exists the perfect mystery story.Such a story presents all the essential clues, and compels us to form our own theory of the case.  If we follow the plot carefully, we arrive at the complete solution for our selves before the author disclosure at the end of the book.
+In Imagination there exists the perfect mystery story.Such a story presents all the essential clues, and compels us to form our own theory of the case.  If we follow the plot carefully, we arrive at the complete solution for our selves before the author disclosure at the end of the book. The solution itself, contrary to the inferior mysteries, does not disappoint us; moreover it appears at the very moment we expect it. 
 
 > [! info] ideas by 小王
 > 说到这个小王联想到了物理学家有不同的风格, 爱因斯坦晚年努力寻找统一场论的解决之道, 而费曼先生的想法可以从下面这两段引用看出
@@ -14,9 +14,9 @@ In Imagination there exists the perfect mystery story.Such a story presents all 
 	>科学的目的或许是描述现实，但是，只要科学工作是由人来实现的，那么人的素质就会影响对现实的描述。费曼这类人密切关注数据，而默里这类人则以自己的思想为指导，将自然干净利落地分类。他们双方或者其中一方最终都有可能成功，如果他们都成功，那么就会有一个“和事佬”出面，证明他们的理论是多么相配，就像弗里曼·戴森（Freeman Dyson）为费曼图所做的那样。正如在量子力学中，能量既可以被视为粒子也可以被当成波一样，不同的见解有可能都是对的，这只不过是对同一个多元化奇迹——自然——的不同看法而已。    
 	>——《费曼的彩虹》
 
+  Can we liken the reader of a book to the scientists, who throughout successive generations continue to seek solutions of the mysteries in the book of nature?
 
 
 
 
 
-	

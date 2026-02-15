@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Evolution of Physics/full.md",
+                "file": "The Evolution of Physics/The Evolution of Physics 完整文稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "full"
+              "title": "The Evolution of Physics 完整文稿"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Evolution of Physics/full.md",
+                "file": "The Evolution of Physics/The Evolution of Physics 完整文稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "full 的大纲"
+              "title": "The Evolution of Physics 完整文稿 的大纲"
             }
           }
         ],
@@ -183,21 +183,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f9597044f04c4db9",
+  "active": "d6570952bf23b0e2",
   "lastOpenFiles": [
+    "The Evolution of Physics/65552af5-1b3b-4e9d-a9e1-8dfb4bbc0f64_origin.pdf",
+    "The Evolution of Physics/The Evolution of Physics 完整文稿.md",
+    "The Evolution of Physics/images/72b63157324318f42a83d67871be0339fa022ed8f7a45cf625f8f17690c2bc7d.jpg",
+    "The Evolution of Physics/images/3ec5de596886d683234b860c5a7701da2efde4d97f5c90f6543e03a807791a7f.jpg",
+    "The Evolution of Physics/images/1d9f9e9a04ffb7ca724d204397d9f56c6a84c63f34656b2cbb44b2377f4789e4.jpg",
+    "The Evolution of Physics/images/0d4a06326e85f7a2273ad3c2e4d378804319f8b9dce92bb9e56ed01f0ec00337.jpg",
     "1. The rise of mechanical view/1-1 The great mystery story.md",
-    "The Evolution of Physics/full.md",
+    "README.md",
     "The Evolution of Physics/images/f6d86845bc09db1bc68c5d00468b33378f630fa72d761c5c2614e2666b967eb0.jpg",
     "The Evolution of Physics/images/820a10c93279ab1ddb341f1c3f866d36d1bb11e95b119e6837903c06fa23644f.jpg",
     "The Evolution of Physics/images/35f12f9a5b9e031c9730956bfd8e236a328753f1018d2fd292b7cfdd3269a998.jpg",
     "The Evolution of Physics/images/2a99ab5af8b4eb601482dccfb9f8b90f9bd5f1317234af080a2b9b7b390401ee.jpg",
     "The Evolution of Physics/images/0db37d181597304e01a490afc8289d97eaebe47e80a5cecb7563511a63c8ff11.jpg",
-    "The Evolution of Physics/65552af5-1b3b-4e9d-a9e1-8dfb4bbc0f64_origin.pdf",
     "The Evolution of Physics/images/f8e5bfee69d6d5f6eee2fb3eed85784aad8f6ede2c4091565d8fd94aee9f89d4.jpg",
-    "The Evolution of Physics/images/fd5a9dce15cd880a5cb8d8a76471c4d5f4c88fea2d676e9a8e7411226448078c.jpg",
-    "The Evolution of Physics/images/fc4ee474afe605cce47e808d80faf44277449acadbb9a78466341ec44a5555d9.jpg",
-    "The Evolution of Physics/images/f692c8ce02292d680b8c20ce77436b80bca9e6134fe52c22b4be1d90a0e1de68.jpg",
-    "The Evolution of Physics/images/f47cfa1e5cd4a37c025c5d871c4602c661a35c6febf6003f7911c4c711403206.jpg",
     "The Evolution of Physics/images",
     "The Evolution of Physics/layout.json",
     "The Evolution of Physics/content_list_v2.json",
@@ -205,7 +206,6 @@
     "The Evolution of Physics/65552af5-1b3b-4e9d-a9e1-8dfb4bbc0f64_model.json",
     "The Evolution of Physics/65552af5-1b3b-4e9d-a9e1-8dfb4bbc0f64_content_list.json",
     "The Evolution of Physics",
-    "README.md",
     "1. The rise of mechanical view/1-4 The riddle of motion.md",
     "1. The rise of mechanical view/1-3 Vectors.md",
     "1. The rise of mechanical view/1-2 The first clue.md",

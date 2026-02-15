@@ -1,22 +1,11 @@
-The
 
-# EVOLUTION
-
-# of PHYSICS
-
-From early concepts to relativity and quanta
-
-# ALBERT EINSTEIN
-
-# LEOPOLD INFELD
-
-![](images/b37ead7ac87d149f9cf5fda53755fc4fb9901170917e5634d9c919c8bd6a4c3e.jpg)
 
 # THE EVOLUTION OF PHYSICS
 
 THE EVOLUTION OF PHYSICS
 
 BY A. EINSTEIN AND L. INFELD
+![](images/b37ead7ac87d149f9cf5fda53755fc4fb9901170917e5634d9c919c8bd6a4c3e.jpg)
 
 first appeared in
 
@@ -36,21 +25,6 @@ BENTLEY HOUSE, EUSTON ROAD
 
 LONDON, N.W. I
 
-# THE EVOLUTION OF PHYSICS
-
-BY
-
-ALBERT EINSTEIN
-
-&
-
-LEOPOLD INFELD
-
-THE SCIENTIFIC BOOK CLUB
-
-III CHARING CROSS ROAD
-
-LONDON.W.C.2
 
 # PREFACE
 
@@ -82,7 +56,7 @@ L. I.
 
 # CONTENTS
 
-# I. THE RISE OF THE MECHANICAL VIEW
+## I. THE RISE OF THE MECHANICAL VIEW
 
 The great mystery story page 3
 
@@ -104,7 +78,7 @@ The philosophical background 55
 
 The kinetic theory of matter 59
 
-# II. THE DECLINE OF THE MECHANICAL VIEW
+## II. THE DECLINE OF THE MECHANICAL VIEW
 
 The two electric fluids 71
 
@@ -126,15 +100,11 @@ Longitudinal or transverse light waves? 120
 
 Ether and the mechanical view 123
 
-# III. FIELD, RELATIVITY
+## III. FIELD, RELATIVITY
 
 The field as representation 129
 
 The two pillars of the field theory 142
-
-X
-
-# CONTENTS
 
 The reality of the field page 148
 
@@ -160,7 +130,7 @@ General relativity and its verification 249
 
 Field and matter 255
 
-# IV. QUANTA
+## IV. QUANTA
 
 Continuity, discontinuity 263
 
@@ -178,7 +148,7 @@ Physics and reality 310
 
 Index 317
 
-# LIST OF PLATES
+## LIST OF PLATES
 
 Plate 1. Brownian movement facing page 66
 
@@ -186,17 +156,12 @@ II. Diffraction of light 118
 
 III. Spectral lines, diffraction of X-rays and of electronic waves 286
 
-# I. THE RISE
 
-# OF THE MECHANICAL VIEW
-
-# THE RISE
-
-# OF THE MECHANICAL VIEW
+# I. THE RISE OF THE MECHANICAL VIEW
 
 The great mystery story—The first clue—Vectors—The riddle of motion—One clue remains—Is heat a substance?—The switchback—The rate of exchange—The philosophical background—The kinetic theory of matter
 
-# THE GREAT MYSTERY STORY
+## THE GREAT MYSTERY STORY
 
 IN IMAGINATION there exists the perfect mystery story. Such a story presents all the essential clues, and compels us to form our own theory of the case. If we follow the plot carefully, we arrive at the complete solution for ourselves just before the author's disclosure at the end of the book. The solution itself, contrary to those of inferior mysteries, does not disappoint us; moreover, it appears at the very moment we expect it.
 
@@ -214,7 +179,7 @@ The scientist reading the book of nature, if we may be allowed to repeat the tri
 
 It is our aim, in the following pages, to describe in broad outline that work of physicists which corresponds to the pure thinking of the investigator. We shall be chiefly concerned with the role of thoughts and ideas in the adventurous search for knowledge of the physical world.
 
-# THE FIRST CLUE
+## THE FIRST CLUE
 
 Attempts to read the great mystery story are as old as human thought itself. Only a little over three hundred years ago, however, did scientists begin to understand the language of the story. Since that time, the age of Galileo and Newton, the reading has proceeded rapidly. Techniques of investigation, systematic methods of finding and following clues, have been developed. Some of
 
@@ -274,7 +239,7 @@ This force consists in the action only; and remains no longer in the body, when 
 
 If a stone is dropped from the top of a tower its motion is by no means uniform; the velocity increases as the stone falls. We conclude: an external force is acting in the direction of the motion. Or, in other words: the earth attracts the stone. Let us take another example. What happens when a stone is thrown straight upward? The velocity decreases until the stone reaches its highest point and begins to fall. This decrease in velocity is caused by the same force as the acceleration of a falling body. In one case the force acts in the direction of the motion, in the other case in the opposite direction. The force is the same, but it causes acceleration or deceleration according to whether the stone is dropped or thrown upward.
 
-# VECTORS
+## VECTORS
 
 All motions we have been considering are rectilinear, that is, along a straight line. Now we must go one step farther. We gain an understanding of the laws of nature by analysing the simplest cases and by leaving out of our first attempts all intricate complications. A straight line is simpler than a curve. It is, however, impossible to be satisfied with an understanding of rectilinear motion alone. The motions of the moon, the earth and the planets, just those to which the principles of mechanics have been applied with such brilliant success, are motions along curved paths. Passing from rectilinear motion to motion along a curved path brings new difficulties. We must have the courage to overcome them if we wish to understand the principles
 
@@ -330,7 +295,7 @@ due to the action of an external force; thus the force must also be represented 
 
 Here the sceptic may remark that he sees no advantage in the introduction of vectors. All that has been accomplished is the translation of previously recognized facts into an unfamiliar and complicated language. At this stage it would indeed be difficult to convince him that he is wrong. For the moment he is, in fact, right. But we shall see that just this strange language leads to an important generalization in which vectors appear to be essential.
 
-# THE RIDDLE OF MOTION
+## THE RIDDLE OF MOTION
 
 So long as we deal only with motion along a straight line, we are far from understanding the motions observed in nature. We must consider motions along curved paths, and our next step is to determine the laws governing such motions. This is no easy task. In the case of rectilinear motion our concepts of velocity, change of velocity, and force proved most useful. But we do not immediately see how we can apply them to
 
@@ -450,7 +415,7 @@ It is really our whole system of guesses which is to be either proved or disprov
 
 Physical concepts are free creations of the human mind, and are not, however it may seem, uniquely determined by the external world. In our endeavour to understand reality we are somewhat like a man trying to understand the mechanism of a closed watch. He sees the face and the moving hands, even hears its ticking, but he has no way of opening the case. If he is ingenious he may form some picture of a mechanism which could be responsible for all the things he observes, but he may never be quite sure his picture is the only one which could explain his observations. He will never be able to compare his picture with the real mechanism and he cannot even imagine the possibility or the meaning of such a comparison. But he certainly believes that, as his knowledge increases, his picture of reality will become simpler and simpler and will explain a wider and wider range of his sensuous impressions. He may also believe in the existence of the ideal limit of knowledge and that it is approached by the human mind. He may call this ideal limit the objective truth.
 
-# ONE CLUE REMAINS
+## ONE CLUE REMAINS
 
 When first studying mechanics one has the impression that everything in this branch of science is simple, fundamental and settled for all time. One would hardly suspect the existence of an important clue which no one noticed for three hundred years. The neglected clue is connected with one of the fundamental concepts of mechanics—that of mass.
 
@@ -484,7 +449,7 @@ have the same constant acceleration, the two masses must be equal.
 
 In our great mystery story there are no problems wholly solved and settled for all time. After three hundred years we had to return to the initial problem of motion, to revise the procedure of investigation, to find clues which had been overlooked, thereby reaching a different picture of the surrounding universe.
 
-# IS HEAT A SUBSTANCE
+## IS HEAT A SUBSTANCE
 
 Here we begin to follow a new clue, one originating in the realm of heat phenomena. It is impossible, however, to divide science into separate and unrelated sections. Indeed, we shall soon find that the new concepts introduced here are interwoven with those already familiar, and with those we shall still meet. A line of thought developed in one branch of science can very often be applied to the description of events apparently quite different in character. In this process the original concepts are often modified so as to advance the understanding both of those phenomena from which they sprang and of those to which they are newly applied.
 
@@ -562,7 +527,7 @@ Thus we see the breakdown of the old theory, or to be more exact, we see that th
 
 limited to problems of heat flow. Again, as Rumford has intimated, we must seek a new clue. To do this, let us leave for the moment the problem of heat and return to mechanics.
 
-# THE SWITCHBACK
+## THE SWITCHBACK
 
 Let us trace the motion of that popular thrill-giver, the switchback. A small car is lifted or driven to the highest point of the track. When set free it starts rolling down under the force of gravity, and then goes up and down along a fantastically curved line, giving the occupants a thrill by the sudden changes in velocity. Every switchback has its highest point, that from which it starts. Never again, throughout the whole course of the motion, will it reach the same height. A complete description of the motion would be very complicated. On the one hand is the mechanical side of the problem, the changes of velocity and position in time. On the other there is friction and therefore the creation of heat, on the rail and in the wheels. The only significant reason for dividing the physical process into these two aspects is to make possible the use of the concepts previously discussed. The division leads to an idealized experiment, for a physical process in which only the mechanical aspect appears can be only imagined but never realized.
 
@@ -594,7 +559,7 @@ together are, like a substance, indestructible. It is as if a man must pay himse
 
 The progress of science has destroyed the older concept of heat as a substance. We try to create a new substance, energy, with heat as one of its forms.
 
-# THE RATE OF EXCHANGE
+## THE RATE OF EXCHANGE
 
 Less than a hundred years ago the new clue which led to the concept of heat as a form of energy was guessed by Mayer and confirmed experimentally by Joule. It is a strange coincidence that nearly all the fundamental work concerned with the nature of heat was done by non-professional physicists who regarded physics merely as their great hobby. There was the versatile Scotsman Black, the German physician Mayer, and the great American adventurer Count Rumford, who afterwards lived in Europe and, among other activities, became Minister of War for Bavaria. There was also the English brewer Joule who, in his spare time, performed some most important experiments concerning the conservation of energy.
 
@@ -626,7 +591,7 @@ Our two concepts of substance are, then, matter and energy. Both obey conservati
 
 the light of newer developments? It has! Further changes in the two concepts are connected with the theory of relativity. We shall return to this point later.
 
-# THE PHILOSOPHICAL BACKGROUND
+## THE PHILOSOPHICAL BACKGROUND
 
 The results of scientific research very often force a change in the philosophical view of problems which extend far beyond the restricted domain of science itself. What is the aim of science? What is demanded of a theory which attempts to describe nature? These questions, although exceeding the bounds of physics, are intimately related to it, since science forms the material from which they arise. Philosophical generalizations must be founded on scientific results. Once formed and widely accepted, however, they very often influence the further development of scientific thought by indicating one of the many possible lines of procedure. Successful revolt against the accepted view results in unexpected and completely different developments, becoming a source of new philosophical aspects. These remarks necessarily sound vague and pointless until illustrated by examples quoted from the history of physics.
 
@@ -664,7 +629,7 @@ certainly unsatisfactory from a philosophical point of view. Nevertheless this s
 
 Before witnessing its decline, let us provisionally accept the point of view held by the physicists of the past century and see what conclusions we can draw from their picture of the external world.
 
-# THE KINETIC THEORY OF MATTER
+## THE KINETIC THEORY OF MATTER
 
 Is it possible to explain the phenomena of heat in terms of the motions of particles interacting through simple forces? A closed vessel contains a certain mass of gas-air, for example-at a certain temperature. By heating we raise the temperature, and thus increase the energy. But how is this heat connected with motion? The possibility of such a connection is suggested both by our tentatively accepted philosophical point of view and by the way in which heat is generated by motion. Heat must be mechanical energy if every problem is a mechanical one. The object of the kinetic theory is to present the concept of matter just in this way. According to this theory a gas is a congregation of an enormous number of particles, or molecules, moving in all directions, colliding with each other and changing in direction of motion with each collision. There must exist an average speed of molecules, just as in a large human community there exists an average
 
@@ -696,7 +661,7 @@ Brown was working with grains of pollen of certain plants, that is:
 
 particles or granules of unusually large size varying from one four-thousandth to about five-thousandth of an inch in length.
 
-# He reports further:
+He reports further:
 
 While examining the form of these particles immersed in water, I observed many of them evidently in motion.... These motions were such as to satisfy me, after frequently repeated observation, that they arose neither from current in the fluid nor from its gradual evaporation, but belonged to the particle itself.
 
@@ -740,7 +705,7 @@ The experiments on Brownian motion are only some of the many independent experim
 
 In the kinetic theory of matter and in all its important achievements we see the realization of the general philosophical programme: to reduce the explanation of all phenomena to the interaction between particles of matter.
 
-# WE SUMMARIZE:
+## WE SUMMARIZE:
 
 In mechanics the future path of a moving body can be predicted and its past disclosed if its present condition and the forces acting upon it are known. Thus, for example, the future paths of all planets can be foreseen. The active forces are Newton's gravitational forces depending on the distance alone. The great results of classical mechanics suggest that the mechanical view can be consistently applied to all branches of physics, that all phenomena can be explained by the action of forces representing either attraction or repulsion, depending only upon distance and acting between unchangeable particles.
 
